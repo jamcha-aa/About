@@ -12,6 +12,8 @@
     + 各地を駆ける配達人たちの物語。 (連載中)
 -   [EeePCとEmacsと○○と](https://jamcha-aa.gitbook.io/eeepc/)
     + 10年前のノートPCを現役で使おうという試み。 (全6話)
+-   [GitBookでGitHubと遊ぶ](https://jamcha-aa.github.io/Gitbook-Guide/)
+    + GitHubでGitBookの文章を公開する試み。
 -   [雑記](https://jamcha-aa.gitbook.io/column/)
 
 #### GitBookでないもの
