@@ -15,7 +15,7 @@
 -   [GitBookでGitHubと遊ぶ](https://jamcha-aa.github.io/Gitbook-Guide/)
     + GitHubでGitBookの文章を公開する試み。 (全4話)
 -   [Emacsのチュートリアルをプレイ。](https://jamcha-aa.github.io/Emacs-tutorial/)
-    + M-x help-with-tutorialを遊ぶ。
+    + M-x help-with-tutorialを遊ぶ。 (全24話)
 -   [雑記](https://jamcha-aa.gitbook.io/column/)
 
 #### GitBookでないもの
