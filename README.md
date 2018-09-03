@@ -1,6 +1,4 @@
----
-home:true
----
+### 作品一覧
 
 -   [Lore](https://jamcha-aa.github.io/Lore/)
     + 2ch オカ板ロア風の 4 行小説集。
