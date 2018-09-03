@@ -14,7 +14,7 @@ const users = require('./data/users');
 const siteConfig = {
   title: '作品一覧' /* title for your website */,
   tagline: 'Works',
-  url: 'https://your-docusaurus-test-site.com' /* your website url */,
+  url: 'https://jamcha-aa.github.io/About/' /* your website url */,
   baseUrl: '/About/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
