@@ -85,9 +85,9 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'その魔法が世界を変える。 (準備中)',
+    caption: '世界を変える禁術。',
     image: '/About/img/users/gitmagit.png',
-    infoLink: 'https://github.com/jamcha-aa/git-magit/',
+    infoLink: 'https://jamcha-aa.github.io/git-magit/',
     fbOpenSource: false,
     pinned: false,
   },
