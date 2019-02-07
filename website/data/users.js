@@ -91,5 +91,12 @@ module.exports = [
     fbOpenSource: false,
     pinned: false,
   },
+  {
+    caption: '短編『黒龍の塔』',
+    image: '/About/img/users/fatum.png',
+    infoLink: 'https://github.com/jamcha-aa/TowerofThem/',
+    fbOpenSource: false,
+    pinned: false,
+  },
   // Please add your logo in alphabetical order of caption.
 ];

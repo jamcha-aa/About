@@ -34,9 +34,6 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>.org形式</h5>
-            <a href="https://github.com/jamcha-aa/TowerofThem">
-              黒龍の塔
-            </a>
             <a href="https://github.com/jamcha-aa/EbonyBlades">
               Ebony Blades / 黒檀の刃 (休止中)
             </a>
