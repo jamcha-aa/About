@@ -101,7 +101,7 @@ module.exports = [
   {
     caption: 'いずれ，この星はオブリビオンの世界へと戻るのだ。',
     image: '/About/img/users/requiem.png',
-    infoLink: 'https://github.com/jamcha-aa/Requiem-novel/',
+    infoLink: 'https://jamcha-aa.github.io/Requiem-novel/',
     fbOpenSource: false,
     pinned: false,
   },
