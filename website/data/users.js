@@ -98,5 +98,12 @@ module.exports = [
     fbOpenSource: false,
     pinned: false,
   },
+  {
+    caption: 'いずれ，この星はオブリビオンの世界へと戻るのだ。',
+    image: '/About/img/users/requiem.png',
+    infoLink: 'https://github.com/jamcha-aa/Requiem-novel/',
+    fbOpenSource: false,
+    pinned: false,
+  },
   // Please add your logo in alphabetical order of caption.
 ];
