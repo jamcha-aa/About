@@ -105,12 +105,12 @@ module.exports = [
     fbOpenSource: false,
     pinned: false,
   },
-//  {
-//      caption: '英語に適切に翻訳できる日本語の文体で書かれた小説。',
-//      image: '/About/img/users/europa.png',
-//      infoLink: 'https://jamcha-aa.github.io/compatible-novel/',
-//      fbOpenSource: false,
-//      pinned: false,
-//  },
+  {
+    caption: '英語に適切に翻訳できる日本語の文体で書かれた小説。',
+    image: '/About/img/users/europa.png',
+    infoLink: 'https://jamcha-aa.github.io/compatible-novels/',
+    fbOpenSource: false,
+    pinned: false,
+  },
   // Please add your logo in alphabetical order of caption.
 ];
