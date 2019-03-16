@@ -25,6 +25,8 @@
     + 世界を変える禁術。 (連載中)
 -   [Requiem: クリームパーレ](https://jamcha-aa.github.io/Requiem-novel/)
     + スカイリムのようでスカイリムじゃない世界 "Requiem" の物語。 (連載中)
+-   [エウロパの翻訳機](https://jamcha-aa.github.io/compatible-novels/)
+    + 英語に適切に翻訳できる日本語の文体で書かれた小説。
 -   [雑記](https://jamcha-aa.gitbook.io/column/)
 
 #### .org 形式
