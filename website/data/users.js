@@ -112,5 +112,12 @@ module.exports = [
     fbOpenSource: false,
     pinned: false,
   },
+  {
+    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。',
+    image: 'https://rawcdn.githack.com/jamcha-aa/About/719ec9ee77b14ece59b363f4ef1552386d62bc11/website/static/img/users/chromeos.png',
+    infoLink: 'https://jamcha-aa.github.io/cloudready-VT/',
+    fbOpenSource: false,
+    pinned: false,
+  },
   // Please add your logo in alphabetical order of caption.
 ];
