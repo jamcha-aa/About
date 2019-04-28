@@ -119,5 +119,12 @@ module.exports = [
     fbOpenSource: false,
     pinned: false,
   },
+  {
+      caption: '黒い画面を使うとしぬ呪いをかけられてしまったら。',
+      image: 'https://rawcdn.githack.com/jamcha-aa/About/9cadb1fc7e143765d26dd9cac3a328bd25c0701d/website/static/img/users/travisci.png',
+      infoLink: 'https://jamcha-aa.github.io/travisci/',
+      fbOpenSource: false,
+      pinned: false,
+  },
   // Please add your logo in alphabetical order of caption.
 ];
