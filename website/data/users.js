@@ -113,14 +113,14 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。(全3話)',
+    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。(全 3 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/86dba8d563512d3d22ca68290e3404f96a1ea228/website/static/img/users/chromeos.png',
     infoLink: 'https://jamcha-aa.github.io/cloudready-VT/',
     fbOpenSource: false,
     pinned: false,
   },
   {
-    caption: '黒い画面を使うとしぬ呪いをかけられてしまったら。',
+    caption: '黒い画面を使うとしぬ呪いをかけられてしまったら。 (全 4 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/9cadb1fc7e143765d26dd9cac3a328bd25c0701d/website/static/img/users/travisci.png',
     infoLink: 'https://jamcha-aa.github.io/travisci/',
     fbOpenSource: false,
