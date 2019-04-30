@@ -28,9 +28,9 @@
 -   [エウロパの翻訳機](https://jamcha-aa.github.io/compatible-novels/)
     + 英語に適切に翻訳できる日本語の文体で書かれた小説。
 -   [終末のChromeOS](https://jamcha-aa.github.io/cloudready-VT/)
-    + ChromeOSをSSH 端末にして遊ぶ (全 3話)。
+    + ChromeOSをSSH 端末にして遊ぶ (全 3 話)。
 -   [とらとらTravis](https://jamcha-aa.github.io/travisci/)
-    + 黒い画面を使うとしぬ呪いをかけられてしまったら。
+    + 黒い画面を使うとしぬ呪いをかけられてしまったら (全 4 話)。
 -   [雑記](https://jamcha-aa.gitbook.io/column/)
 
 #### .org 形式
