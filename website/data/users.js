@@ -113,7 +113,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。',
+    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。 (全 6 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/86dba8d563512d3d22ca68290e3404f96a1ea228/website/static/img/users/chromeos.png',
     infoLink: 'https://jamcha-aa.github.io/cloudready-VT/',
     fbOpenSource: false,
