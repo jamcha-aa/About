@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2018 jamcha (jamcha.aa@gmail.com), (c) 2017-present, Facebook, Inc.
+ * Copyright (c) 2018-2019 jamcha (jamcha.aa@gmail.com), (c) 2017-present, Facebook, Inc.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -41,7 +41,7 @@ const siteConfig = {
   /* colors for website */
   colors: {
     primaryColor: '#b27ee2',
-    secondaryColor: '#205C3B',
+    secondaryColor: '#FFFFFF',
   },
 
   /* custom fonts for website */
