@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2018 jamcha, (c) 2017-present, Facebook, Inc.
+ * Copyright (c) 2018-2019 jamcha, (c) 2017-present, Facebook, Inc.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -30,9 +30,6 @@ class Users extends React.Component {
       <div className="mainContainer">
         <Container padding={['bottom', 'top']}>
           <div className="showcaseSection">
-            <div className="prose">
-              <h3>読みたい作品のアイコンをタッチしてください。</h3>
-            </div>
             <div className="logos">{showcase}</div>
             <p>Are you interested in my novel?</p>
             <a href="https://github.com/jamcha-aa" className="button">
