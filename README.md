@@ -31,7 +31,7 @@
     + Chrome OSをSSH 端末にして遊ぶ (全 3 話)。
 -   [とらとらTravis](https://jamcha-aa.github.io/travisci/)
     + 黒い画面を使うとしぬ呪いをかけられてしまったら (全 4 話)。
--   [C202SAと最後の2年間](https://jamcha-aa.github.io/c202sa/)
+-   [C202SAと最後の 2 年間](https://jamcha-aa.github.io/c202sa/)
     + かわいい相棒、Chromebook C202SA。
 -   [雑記](https://jamcha-aa.gitbook.io/column/)
 

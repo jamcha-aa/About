@@ -71,7 +71,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'Git x Magit編集会議，というより VuePress。 (全 5 話)',
+    caption: 'Git x Magit編集会議、というより VuePress。 (全 5 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/a37230eb7da4b8f6b6c945f7e2c4586daaddd02b/website/static/img/users/vuepress.png',
       infoLink: 'https://jamcha-aa.github.io/magit-meeting/',
     fbOpenSource: false,
@@ -99,7 +99,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'いずれ，この星はオブリビオンの世界へと戻るのだ。',
+    caption: 'いずれ、この星はオブリビオンの世界へと戻るのだ。',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/a37230eb7da4b8f6b6c945f7e2c4586daaddd02b/website/static/img/users/requiem.png',
     infoLink: 'https://jamcha-aa.github.io/Requiem-novel/',
     fbOpenSource: false,
@@ -113,7 +113,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。 (全 7 話)',
+    caption: 'わたしはわたしの友達を最後まで守ります。最後まで。 (全 3 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/86dba8d563512d3d22ca68290e3404f96a1ea228/website/static/img/users/chromeos.png',
     infoLink: 'https://jamcha-aa.github.io/cloudready-VT/',
     fbOpenSource: false,
@@ -123,6 +123,13 @@ module.exports = [
     caption: '黒い画面を使うとしぬ呪いをかけられてしまったら。 (全 4 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/9cadb1fc7e143765d26dd9cac3a328bd25c0701d/website/static/img/users/travisci.png',
     infoLink: 'https://jamcha-aa.github.io/travisci/',
+    fbOpenSource: false,
+    pinned: false,
+  },
+  {
+    caption: 'かわいい相棒、Chromebook C202SA。',
+    image: 'https://rawcdn.githack.com/jamcha-aa/About/5dc20c8fa9503c3c0f36e11f903111d86897a3b9/website/static/img/users/chromebook.png',
+    infoLink: 'https://jamcha-aa.github.io/c202sa/',
     fbOpenSource: false,
     pinned: false,
   },
