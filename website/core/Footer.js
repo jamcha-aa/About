@@ -46,6 +46,9 @@ class Footer extends React.Component {
             <a href="https://github.com/jamcha-aa/KonG">
               "KonG (混ん G)" Font
             </a>
+            <a href="https://github.com/jamcha-aa/Annin">
+              Markdown editor "Annin (杏仁)"
+            </a>
             <a href="https://jamcha.wordpress.com/">Wordpress</a>
           </div>
           <div>
