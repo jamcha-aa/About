@@ -133,5 +133,12 @@ module.exports = [
     fbOpenSource: false,
     pinned: false,
   },
+  {
+    caption: '編集を始 (し) てね！',
+    image: 'https://rawcdn.githack.com/jamcha-aa/About/f4ab5baa4fbff6f3acf8168c4a27bbc6b3972686/website/static/img/users/editor.png',
+    infoLink: 'https://jamcha-aa.github.io/making-editor/',
+    fbOpenSource: false,
+    pinned: false,
+  },
   // Please add your logo in alphabetical order of caption.
 ];
