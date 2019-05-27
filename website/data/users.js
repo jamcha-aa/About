@@ -134,7 +134,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: '編集を始 (し) てね！',
+    caption: '編集を始 (し) てね！ (全 11 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/f4ab5baa4fbff6f3acf8168c4a27bbc6b3972686/website/static/img/users/editor.png',
     infoLink: 'https://jamcha-aa.github.io/making-editor/',
     fbOpenSource: false,
