@@ -33,23 +33,26 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>.org形式</h5>
-            <a href="https://github.com/jamcha-aa/EbonyBlades">
-              Ebony Blades / 黒檀の刃 (休止中)
-            </a>
-          </div>
-          <div>
-            <h5>More</h5>
+            <h5>Docs</h5>
             <a href="https://jamcha-aa.github.io/">
               Blog
             </a>
-            <a href="https://github.com/jamcha-aa/KonG">
-              "KonG (混ん G)" Font
-            </a>
-            <a href="https://github.com/jamcha-aa/Annin">
-              Markdown editor "Annin (杏仁)"
+            <a href="https://github.com/jamcha-aa/Requiem2_0_2_JP">
+              Requiem 2.0.2 日本語化
             </a>
             <a href="https://jamcha.wordpress.com/">Wordpress</a>
+          </div>
+          <div>
+            <h5>Tools</h5>
+            <a href="https://github.com/jamcha-aa/KonG">
+              KonG (混ん G) Font
+            </a>
+            <a href="https://github.com/jamcha-aa/Annin">
+              Annin (杏仁)
+            </a>
+            <a href="https://github.com/jamcha-aa/auto-org-md">
+              auto-org-md
+            </a>
           </div>
           <div>
             <h5>Social</h5>
