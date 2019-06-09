@@ -141,7 +141,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'ウェブの森で迷子になった話。',
+    caption: 'ウェブの森で迷子になった話。 (全 6 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/494af5169967aebf05ced683bbfd3b860d5db0aa/website/static/img/users/hugo.png',
     infoLink: 'https://jamcha-aa-hugo.netlify.com/',
     fbOpenSource: false,
