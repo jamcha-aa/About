@@ -149,7 +149,7 @@ module.exports = [
   },
   {
     caption: '山本太郎の 8 年間と『れいわ』の 4 ヶ月',
-    image: 'https://rawcdn.githack.com/jamcha-aa/About/efd20344e6215b3f97399f7f6460ed744fa0a647/website/static/img/users/reiwa.png',
+    image: 'https://rawcdn.githack.com/jamcha-aa/About/cc752db0e0af8bf498cdd7383b50a4f9dbe55fa8/website/static/img/users/reiwa.png',
     infoLink: 'https://jamcha-aa-harmoniyangindah.netlify.com/',
     fbOpenSource: false,
     pinned: false,
