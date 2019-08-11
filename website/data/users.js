@@ -148,7 +148,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: '山本太郎の 8 年間と『れいわ』の 4 ヶ月',
+    caption: '平成 24 年の山本太郎と『れいわ新選組』の 1 ヶ月',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/cc752db0e0af8bf498cdd7383b50a4f9dbe55fa8/website/static/img/users/reiwa.png',
     infoLink: 'https://jamcha-aa-harmoniyangindah.netlify.com/',
     fbOpenSource: false,
