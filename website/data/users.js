@@ -148,9 +148,16 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: '平成 24 年の山本太郎と『れいわ新選組』の 1 ヶ月',
+    caption: '平成 24 年の山本太郎と『れいわ新選組』の 1 ヶ月 (全 8 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/cc752db0e0af8bf498cdd7383b50a4f9dbe55fa8/website/static/img/users/reiwa.png',
     infoLink: 'https://jamcha-aa-harmoniyangindah.netlify.com/',
+    fbOpenSource: false,
+    pinned: false,
+  },
+  {
+    caption: 'YouTube で MMR を見た',
+    image: 'https://rawcdn.githack.com/jamcha-aa/About/467b576a32ad5d1604084482e3fdde4c2c1f7d03/website/static/img/users/mitsuyama.png',
+    infoLink: 'https://jamcha-aa-mitsuyama.netlify.com/',
     fbOpenSource: false,
     pinned: false,
   },
