@@ -155,7 +155,7 @@ module.exports = [
     pinned: false,
   },
   {
-    caption: 'YouTube で MMR を観た',
+    caption: 'YouTube で MMR を観た (全 14 話)',
     image: 'https://rawcdn.githack.com/jamcha-aa/About/467b576a32ad5d1604084482e3fdde4c2c1f7d03/website/static/img/users/mitsuyama.png',
     infoLink: 'https://jamcha-aa-mitsuyama.netlify.com/',
     fbOpenSource: false,
