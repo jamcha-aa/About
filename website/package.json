@@ -12,6 +12,6 @@
     "docusaurus": "^1.14.4"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
